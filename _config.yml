@@ -3,9 +3,8 @@ title: Test2
 author: Kevin Ip
 email: kevinwlip@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  My Jekyll website hosted on GitHub Pages.
+  Plan to update the site with my work.
 
 # social links
 github_username:  kevinwlip
