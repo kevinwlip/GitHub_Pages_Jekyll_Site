@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resources
+# title: Resources
 description: Resources related to GitHub Pages websites
 ---
 
