@@ -1,12 +1,18 @@
-theme: jekyll-theme-slate
-title: kevinwlip
-author: Kevin Ip
-email: kevinwlip@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  My Jekyll & Markdown website hosted on GitHub Pages.
-  Plan to update the site with my work.
+#theme: jekyll-theme-slate
+#title: kevinwlip
+#author: Kevin Ip
+#email: kevinwlip@gmail.com
+#description: > # this means to ignore newlines until "baseurl:"
+#  My Jekyll & Markdown website hosted on GitHub Pages.
+#  Plan to update the site with my work.
 
 # social links
-github_username:  kevinwlip
+#github_username:  kevinwlip
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+#show_excerpts: true # set to false to remove excerpts on the homepage
+
+title: Slate theme
+description: Slate is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-slate
