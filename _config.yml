@@ -1,9 +1,9 @@
 theme: minima
-title: Welcome to Kevin's Site
+title: kevinwlip
 author: Kevin Ip
 email: kevinwlip@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  My Jekyll website hosted on GitHub Pages.
+  My Jekyll & Markdown website hosted on GitHub Pages.
   Plan to update the site with my work.
 
 # social links
