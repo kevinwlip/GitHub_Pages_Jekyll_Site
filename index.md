@@ -1,12 +1,9 @@
 ---
 layout: page
-# title: Welcome
+title: Welcome
 tagline: Easy websites with GitHub Pages
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
-
----
-
 
 Followed this as a guide [simple_site](https://kbroman.org/simple_site)
 
