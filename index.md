@@ -7,6 +7,7 @@ description: Minimal tutorial on making a simple website with GitHub Pages
 
 ---
 
+
 Followed this as a guide [simple_site](https://kbroman.org/simple_site)
 
 [Github Pages](https://pages.github.com) provide a simple way to make a
