@@ -7,9 +7,10 @@ I created this simple site using GitHub Pages and Jekyll.
 
 Will post projects and past work that I have worked on below:
 
+- [Automation with Pytest and Selenium](https://github.com/kevinwlip/Automation.git)
+
 - [GitHub Pages with Jekyll](pages/github_pages_with_jekyll.html)
 
-- [Automation with Pytest and Selenium](https://github.com/kevinwlip/Automation.git)
 
 
 ---
