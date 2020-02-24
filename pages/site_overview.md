@@ -155,14 +155,14 @@ real differences are
 - The repository needs to be called `username.github.io`
 - The site sits in the `master` branch rather than the `gh-pages` branch.
 
-_My_ personal site, [kbroman.github.io](https://kbroman.github.io)
+_kbroman's_ personal site, [kbroman.github.io](https://kbroman.github.io)
 (which shows up as [kbroman.org](https://kbroman.org); see the
 [GitHub help page on setting up a custom domain](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages))
 is minimal and is actually written in straight html rather than
 [Markdown](https://daringfireball.net/projects/markdown/). If you
-want, you could just make an edited version of my site:
+want, you could just make an edited version of kbroman's site:
 
-- Clone my
+- Clone
   [kbroman.github.io repository](https://github.com/kbroman/kbroman.github.io)
 - Remove the `.git` directory
 - Edit `index.html`, `404.html`, `README.md`, and `License.md`
