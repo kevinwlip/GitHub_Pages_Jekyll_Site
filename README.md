@@ -1,6 +1,6 @@
-# Your GitHub Learning Lab Repository for GitHub Pages
+# Welcome to my site
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. 
+I made his site to display my work and some projects I have worked on in school and at work
 
 Oh! I haven't introduced myself...
 
