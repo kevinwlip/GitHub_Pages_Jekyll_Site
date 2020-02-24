@@ -12,7 +12,6 @@ Will post projects and past work that I have worked on below:
 - [GitHub Pages with Jekyll](pages/github_pages_with_jekyll.html)
 
 
-
 ---
 
 
