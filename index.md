@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Welcome
+tagline: Practice + Projects + Work
 ---
 
 I created this simple site using GitHub Pages and Jekyll.
