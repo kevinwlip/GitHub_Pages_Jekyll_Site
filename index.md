@@ -9,7 +9,7 @@ Will post projects and past work that I have worked on below:
 
 - [Automation with Pytest and Selenium](https://github.com/kevinwlip/Automation.git)
 
-- [GitHub Pages with Jekyll](pages/github_pages_with_jekyll.html)
+- [GitHub Pages with Jekyll](https://github.com/kevinwlip/GitHub_Pages_Jekyll_Site.git)
 
 
 ---
