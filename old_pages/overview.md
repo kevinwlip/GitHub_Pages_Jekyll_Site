@@ -106,6 +106,7 @@ or just look at the
 
 Now go to the page about [how to make an independent website](independent_site.html).
 
+---
 
 # Resources related to GitHub Pages websites
 
