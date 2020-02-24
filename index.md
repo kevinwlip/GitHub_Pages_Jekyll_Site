@@ -12,9 +12,7 @@ Will post projects and past work that I have worked on below:
 
 - [GitHub Pages with Jekyll](https://github.com/kevinwlip/GitHub_Pages_Jekyll_Site.git)
 
-
----\
-
+---
 
 Followed this as a guide [simple_site](https://kbroman.org/simple_site)
 
@@ -28,6 +26,5 @@ The sites use [Jekyll](https://jekyllrb.com/), a
 convert Markdown files to html, and this part is done
 automatically when you push the materials to the `gh-pages` branch
 of a GitHub repository.
-
 
 ---
