@@ -13,7 +13,7 @@ Will post projects and past work that I have worked on below:
 
 
 ---
-
+<br />
 
 Followed this as a guide [simple_site](https://kbroman.org/simple_site)
 
