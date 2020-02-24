@@ -12,6 +12,8 @@ Will post projects and past work that I have worked on below:
 
 - [GitHub Pages with Jekyll](https://github.com/kevinwlip/GitHub_Pages_Jekyll_Site.git)
 
+<br>
+
 ---
 
 Followed this as a guide [simple_site](https://kbroman.org/simple_site)
