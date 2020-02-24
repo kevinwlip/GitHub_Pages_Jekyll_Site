@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Overview
+title: Site Overview
 description: Overview of construction of a website with GitHub Pages
 ---
 
