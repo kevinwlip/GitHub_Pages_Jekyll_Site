@@ -38,7 +38,7 @@ a site like the one you're looking at now, read on.
 Start by reading the [Overview page](pages/overview.html), which
 explains the basic structure of these sites.
 
-- [Test]()
+- [Overview](pages/overview.html)
 - [Making a personal site](pages/user_site.html)
 - [Resources](pages/resources.html)
 
