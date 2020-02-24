@@ -38,8 +38,6 @@ a site like the one you're looking at now, read on.
 Start by reading the [Overview page](pages/overview.html), which
 explains the basic structure of these sites.
 
-- [Overview](pages/overview.html)
-- [Making a personal site](pages/user_site.html)
-- [Resources](pages/resources.html)
+- [GitHub Pages with Jekyll](pages/github_pages_with_jekyll.html)
 
 ---
