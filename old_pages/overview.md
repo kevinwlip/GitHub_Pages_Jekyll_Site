@@ -106,11 +106,9 @@ or just look at the
 
 Now go to the page about [how to make an independent website](independent_site.html).
 
----
-layout: page
-title: Resources
-description: Resources related to GitHub Pages websites
----
+
+# Resources related to GitHub Pages websites
+
 
 This is a minimal tutorial to get you started. There are lots of
 other resources.
