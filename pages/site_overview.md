@@ -9,7 +9,9 @@ Followed this as a guide [simple_site](https://kbroman.org/simple_site)
 [Github Pages](https://pages.github.com) provide a simple way to make a
 website using
 [Markdown](https://daringfireball.net/projects/markdown/) and
-[git](https://git-scm.com).
+[git](https://git-scm.com).  
+
+---
 
 The sites use [Jekyll](https://jekyllrb.com/), a
 [ruby](https://www.ruby-lang.org/en/) [gem](https://rubygems.org/), to
